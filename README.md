@@ -23,8 +23,6 @@ SENIOR APPLIED AI & FULL-STACK ENGINEER
   />
 </p>
 
----
-
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=michael7901">
@@ -34,11 +32,11 @@ SENIOR APPLIED AI & FULL-STACK ENGINEER
 
 </div>
 
----
-
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me
 
-> *"If you want to be the best, you have to work more than the rest."*
+I'm a **Senior Applied AI & Full-Stack Engineer** focused on building production-ready intelligent applications from concept to deployment. I work across **Generative AI, LLMs, RAG, AI Agents, and automation**, combining them with modern full-stack technologies including **React, Next.js, TypeScript, Python, FastAPI, and PostgreSQL**. I enjoy turning complex business requirements into scalable, secure, and practical AI-powered products.
+
+## 🛠️ Technical Skills
 
 <div style="display: flex; align-items: flex-start; justify-content: center">
 <table align="center">
@@ -186,8 +184,7 @@ SENIOR APPLIED AI & FULL-STACK ENGINEER
 
 </table>
 
----
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -204,14 +201,10 @@ SENIOR APPLIED AI & FULL-STACK ENGINEER
     </td>
   </tr>
 </table>
- 
----
 
 ## 📈 Activity Graph
 
 [![Mike's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=michael7901&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:112240,100:00B4D8&height=120&section=footer" width="100%" alt="Footer Wave" />
